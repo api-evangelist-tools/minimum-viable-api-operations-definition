@@ -1,0 +1,46 @@
+[
+	{
+		"id": "xnqHNPWaXFxTN3waTgamOftX1wdelu0tPIbiMrpdDC7KlVdEGeOwpZsS7C8cLU116ds116zHNpuZyRaesuTMafsj0w117117",
+		"name": "Chef",
+		"summary": "Use Chef server as your foundation to create and manage flexible, dynamic infrastructure whether you manage 50 or 500,000 nodes, across multiple datacenters, public and private clouds, and in heterogeneous environments.",
+		"details": "Use Chef server as your foundation to create and manage flexible, dynamic infrastructure whether you manage 50 or 500,000 nodes, across multiple datacenters, public and private clouds, and in heterogeneous environments.",
+		"website": "https://www.chef.io/",
+		"twitter": "https://twitter.com/chef",
+		"github": "https://github.com/chef",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/chef",
+		"base_url": "",
+		"blog": "https://www.chef.io/blog/",
+		"blogrss": "https://www.chef.io/blog/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pic-chef-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pic-chef-logo.png",
+		"tags": [
+			"Orchestration"
+		]
+	},
+	{
+		"id": "poDDrAGdQopRvsgyshTHBHhfUddHZqdqs9123vhNSLR123CNLSsfrHf6HR9gGPN5I116hCQN93c123Qumi362Q2NPpAD7g117117",
+		"name": "Puppet Labs",
+		"summary": "Puppet Labs develops IT automation software. The companyu2019s flagship products, Puppet and Puppet Enterprise, are designed to allow companies to automate configuration management and infrastructure, cut costs and help organizations better handle infrastructure management at scale.",
+		"details": "Puppet Labs develops IT automation software. The companyu2019s flagship products, Puppet and Puppet Enterprise, are designed to allow companies to automate configuration management and infrastructure, cut costs and help organizations better handle infrastructure management at scale.",
+		"website": "http://puppetlabs.com/",
+		"twitter": "https://twitter.com/puppetlabs",
+		"github": "https://github.com/puppetlabs",
+		"apisjson_url": "http://theapistack.com/data/puppet-labs/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/puppetlabs",
+		"base_url": "",
+		"blog": "http://puppetlabs.com/blog/",
+		"blogrss": "http://feeds.feedburner.com/PuppetLabs",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/puppet-labs-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/puppet-labs-logo.png",
+		"tags": [
+			"Orchestration"
+		]
+	}
+]
